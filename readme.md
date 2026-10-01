@@ -1,12 +1,9 @@
 # handwired/aliceyay68
 
-![handwired/aliceyay68](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+I mainly made this layout for a PCB keyboard to gain some experience for EDA softwares.
 
 * Keyboard Maintainer: [stwawbewwy](https://github.com/stwawbewwy)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: rp2040
 
 Make example for this keyboard (after setting up your build environment):
 
